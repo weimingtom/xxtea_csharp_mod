@@ -11,3 +11,4 @@ My xxtea csharp mod
 
 ## What different from official     
 * TODO, not same as official implementation, to get same result from Java and CSharp for me   
+* For encrypting pure string like password  
